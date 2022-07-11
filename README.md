@@ -6,6 +6,10 @@ StudyBuddy is a django based application similar to discord where you can join d
 
 ---
 
+Live: [Link](https://roshanm.pythonanywhere.com)
+
+---
+
 Tech:
 - HTML5
 - CSS3
